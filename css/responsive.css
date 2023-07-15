@@ -1,0 +1,291 @@
+@media(min-width:320px) and (max-width:767px)
+{
+	.container
+	{
+		width:100%;
+		margin:0 auto;
+	}
+	.row
+	{
+		display:flex;
+		flex-wrap:wrap;
+	}
+	.res-align-center
+	{
+		text-align:center;
+	}
+	/* Header Section starts */
+	.dis_none
+	{
+		display:none;
+	}
+	.flex_start
+	{
+		justify-content:flex-start;
+	}
+	.flex_end
+	{
+		display:flex;
+		justify-content:space-around;
+	}
+	.flex_end .navicon
+	{
+		display:block;
+		font-size:30px;
+	}
+	/* Header Section ends */
+	
+	/* Banner Section starts */
+	.banner-row
+	{
+		justify-content:center;
+	}	
+	/* Banner Section ends */
+	
+	/* About Section starts */
+	.about-cont{
+		margin-bottom:20px;
+	}
+	.about-icon-cont
+	{
+		padding-top:25px;
+	}
+	/* About Section endss */
+	
+	/* counter Section starts */
+	.count-num
+	{
+		position:relative;
+		margin:20px 0;
+	}
+	.count-num i
+	{
+		position:absolute;
+		top:-26px;
+		left:250px;
+	}
+	.count-icon-cont a h4
+	{
+		display:none;
+	}
+	.order-2
+	{
+		order:2;
+	}
+	.order-1
+	{
+		order:1;
+	}
+	.count-left-cont
+	{
+		margin-top:20px;
+	}
+	/* counter Section ends */
+	
+	.col_sm_1
+	{
+		width:8.33%;
+		padding:0 15px;
+	}
+	.col_sm_2
+	{
+		width:16.66%;
+		padding:0 15px;
+	}
+	.col_sm_3
+	{
+		width:25%;
+		padding:0 15px;
+	}
+	.col_sm_4
+	{
+		width:33.33%;
+		padding:0 15px;
+	}
+	.col_sm_5
+	{
+		width:41.66%;
+		padding:0 15px;
+	}
+	.col_sm_6
+	{
+		width:50%;
+		padding:0 15px;
+	}
+	.col_sm_7
+	{
+		width:58.33%;
+		padding:0 15px;
+	}
+	.col_sm_8
+	{
+		width:66.66%;
+		padding:0 15px;
+	}
+	.col_sm_9
+	{
+		width:75%;
+		padding:0 15px;
+	}
+	.col_sm_10
+	{
+		width:83.33%;
+		padding:0 15px;
+	}
+	.col_sm_11
+	{
+		width:91.66%;
+		padding:0 15px;
+	}
+	.col_sm_12
+	{
+		width:100%;
+		padding:0 15px;
+	}
+}
+
+@media(min-width:768px) and (max-width:999px)
+{
+	.container
+	{
+		width:100%;
+		margin:0 auto;
+	}
+	.row
+	{
+		display:flex;
+		flex-wrap:wrap;
+	}
+	.res-align-center
+	{
+		text-align:center;
+	}
+	/* Header Section starts */
+	.dis_none_tab
+	{
+		display:none;
+	}
+	.flex_start
+	{
+		justify-content:flex-start;
+	}
+	.flex_end
+	{
+		display:flex;
+		justify-content:space-around;
+	}
+	.nav_but .navicon
+	{
+		display:block;
+		font-size:30px;
+	}
+	/* Header Section ends */
+	
+	/* Banner Section starts */
+	.banner-row
+	{
+		justify-content:center;
+	}	
+	/* Banner Section ends */
+	
+	/* About Section starts */
+	.about-cont{
+		margin-bottom:20px;
+	}
+	.about-icon-cont
+	{
+		padding-top:25px;
+	}
+	/* About Section endss */
+	
+	/* counter Section starts */
+	.count-num
+	{
+		position:relative;
+		margin:20px 0;
+	}
+	.count-num i
+	{
+		position:absolute;
+		top:-26px;
+		left:190px;
+	}
+	.count-icon-cont a h4
+	{
+		display:none;
+	}
+	.order-2
+	{
+		order:2;
+	}
+	.order-1
+	{
+		order:1;
+	}
+	.count-left-cont
+	{
+		margin-top:20px;
+	}
+	/* counter Section ends */
+	
+	.col_md_1
+	{
+		width:8.33%;
+		padding:0 15px;
+	}
+	.col_md_2
+	{
+		width:16.66%;
+		padding:0 15px;
+	}
+	.col_md_3
+	{
+		width:25%;
+		padding:0 15px;
+	}
+	.col_md_4
+	{
+		width:33.33%;
+		padding:0 15px;
+	}
+	.col_md_5
+	{
+		width:41.66%;
+		padding:0 15px;
+	}
+	.col_md_6
+	{
+		width:50%;
+		padding:0 15px;
+	}
+	.col_md_7
+	{
+		width:58.33%;
+		padding:0 15px;
+	}
+	.col_md_8
+	{
+		width:66.66%;
+		padding:0 15px;
+	}
+	.col_md_9
+	{
+		width:75%;
+		padding:0 15px;
+	}
+	.col_md_10
+	{
+		width:83.33%;
+		padding:0 15px;
+	}
+	.col_md_11
+	{
+		width:91.66%;
+		padding:0 15px;
+	}
+	.col_md_12
+	{
+		width:100%;
+		padding:0 15px;
+	}
+}
